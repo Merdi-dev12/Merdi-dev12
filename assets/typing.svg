@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="50" viewBox="0 0 800 50">
+  <style>@keyframes blink { 0%,49% { fill-opacity: 1; } 50%,100% { fill-opacity: 0; } } rect[fill='#0284C7'] { animation: blink 1s step-end infinite; }</style>
+  
+  <clipPath id="c0"><rect x="204.7" y="0" height="50" width="0">
+    <animate attributeName="width" values="0.0;390.6;390.6;0.0;0.0" keyTimes="0.0000;0.0840;0.1600;0.1840;1.0000" dur="22.5s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <text x="204.7" y="32" font-family="'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="21" font-weight="600" fill="#0284C7" textLength="390.6" lengthAdjust="spacingAndGlyphs" clip-path="url(#c0)">Full-Stack &amp; DevSecOps Engineer</text>
+  <rect y="13" width="3" height="25" rx="1" fill="#0284C7" opacity="0">
+    <animate attributeName="x" values="204.7;595.3;595.3;204.7;204.7" keyTimes="0.0000;0.0840;0.1600;0.1840;1.0000" dur="22.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;1;0;0" keyTimes="0.0000;0.0840;0.1600;0.1840;1.0000" calcMode="discrete" dur="22.5s" repeatCount="indefinite"/>
+  </rect>
+  <clipPath id="c1"><rect x="85.0" y="0" height="50" width="0">
+    <animate attributeName="width" values="0.0;0.0;630.0;630.0;0.0;0.0" keyTimes="0.0000;0.2000;0.2840;0.3600;0.3840;1.0000" dur="22.5s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <text x="85.0" y="32" font-family="'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="21" font-weight="600" fill="#0284C7" textLength="630.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c1)">Building Secure, Scalable Mobile &amp; Cloud Solutions</text>
+  <rect y="13" width="3" height="25" rx="1" fill="#0284C7" opacity="0">
+    <animate attributeName="x" values="85.0;85.0;715.0;715.0;85.0;85.0" keyTimes="0.0000;0.2000;0.2840;0.3600;0.3840;1.0000" dur="22.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0.0000;0.2000;0.2840;0.3600;0.3840;1.0000" calcMode="discrete" dur="22.5s" repeatCount="indefinite"/>
+  </rect>
+  <clipPath id="c2"><rect x="154.3" y="0" height="50" width="0">
+    <animate attributeName="width" values="0.0;0.0;491.4;491.4;0.0;0.0" keyTimes="0.0000;0.4000;0.4840;0.5600;0.5840;1.0000" dur="22.5s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <text x="154.3" y="32" font-family="'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="21" font-weight="600" fill="#0284C7" textLength="491.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c2)">Flutter · Kotlin · Swift · Node.js · Go</text>
+  <rect y="13" width="3" height="25" rx="1" fill="#0284C7" opacity="0">
+    <animate attributeName="x" values="154.3;154.3;645.7;645.7;154.3;154.3" keyTimes="0.0000;0.4000;0.4840;0.5600;0.5840;1.0000" dur="22.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0.0000;0.4000;0.4840;0.5600;0.5840;1.0000" calcMode="discrete" dur="22.5s" repeatCount="indefinite"/>
+  </rect>
+  <clipPath id="c3"><rect x="91.3" y="0" height="50" width="0">
+    <animate attributeName="width" values="0.0;0.0;617.4;617.4;0.0;0.0" keyTimes="0.0000;0.6000;0.6840;0.7600;0.7840;1.0000" dur="22.5s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <text x="91.3" y="32" font-family="'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="21" font-weight="600" fill="#0284C7" textLength="617.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c3)">Docker · Kubernetes · CI/CD · Terraform · Ansible</text>
+  <rect y="13" width="3" height="25" rx="1" fill="#0284C7" opacity="0">
+    <animate attributeName="x" values="91.3;91.3;708.7;708.7;91.3;91.3" keyTimes="0.0000;0.6000;0.6840;0.7600;0.7840;1.0000" dur="22.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0.0000;0.6000;0.6840;0.7600;0.7840;1.0000" calcMode="discrete" dur="22.5s" repeatCount="indefinite"/>
+  </rect>
+  <clipPath id="c4"><rect x="116.5" y="0" height="50" width="0">
+    <animate attributeName="width" values="0.0;0.0;567.0;567.0;0.0;0.0" keyTimes="0.0000;0.8000;0.8840;0.9600;0.9840;1.0000" dur="22.5s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <text x="116.5" y="32" font-family="'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="21" font-weight="600" fill="#0284C7" textLength="567.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c4)">Software should be invisible — it just works.</text>
+  <rect y="13" width="3" height="25" rx="1" fill="#0284C7" opacity="0">
+    <animate attributeName="x" values="116.5;116.5;683.5;683.5;116.5;116.5" keyTimes="0.0000;0.8000;0.8840;0.9600;0.9840;1.0000" dur="22.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0.0000;0.8000;0.8840;0.9600;0.9840;1.0000" calcMode="discrete" dur="22.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>

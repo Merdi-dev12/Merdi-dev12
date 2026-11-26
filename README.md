@@ -1,12 +1,10 @@
 <!-- ═══════════════════════ HEADER ANIMÉ ═══════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0284C7&height=220&section=header&text=Merdi%20Pumba&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%26%20DevOps%20Engineer%20%7C%20Web%20%7C%20Mobile%20%7C%20Cloud&descAlignY=58&descSize=17" width="100%" />
+  <img src="./assets/header.svg" alt="Merdi Pumba — Full-Stack &amp; DevSecOps Engineer" width="100%" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/Merdi-dev12">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+%26+DevOps+Engineer;Building+Scalable+Web%2C+Mobile+%26+Cloud+Solutions;Flutter+%C2%B7+React+%C2%B7+Node.js+%C2%B7+Go;Docker+%C2%B7+Kubernetes+%C2%B7+CI%2FCD+%C2%B7+Terraform;Software+should+be+invisible+%E2%80%94+it+just+works." alt="Typing SVG" />
-  </a>
+  <img src="./assets/typing.svg" alt="Typing animation" />
 </div>
 
 <div align="center">
@@ -195,5 +193,5 @@ A passionate Full-Stack Engineer with **3 years of experience** crafting high-pe
 
 <!-- ═══════════════════════ FOOTER ANIMÉ ═══════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:1E3A8A,100:0F172A&height=120&section=footer&text=Software%20should%20be%20invisible%20%E2%80%94%20it%20just%20works.&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=68" width="100%" />
+  <img src="./assets/footer.svg" alt="Building. Securing. Shipping. Scaling." width="100%" />
 </div>
