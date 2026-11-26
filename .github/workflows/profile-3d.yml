@@ -1,10 +1,14 @@
-# À placer dans : .github/workflows/profile-3d.yml
 name: GitHub-Profile-3D-Contrib
 
 on:
   schedule: 
     - cron: "0 18 * * *"
   workflow_dispatch:
+  push: 
+    branches: [main]
+    paths:
+      - ".github/profile-3d-settings.json"
+      - ".github/workflows/profile-3d.yml"
 
 permissions:
   contents: write
