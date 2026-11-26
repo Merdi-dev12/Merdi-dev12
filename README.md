@@ -1,6 +1,19 @@
-# Hi 👋, I'm Merdi Pumba
+<!-- ═══════════════════════ HEADER ANIMÉ ═══════════════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0284C7&height=220&section=header&text=Merdi%20Pumba&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%26%20DevOps%20Engineer%20%7C%20Web%20%7C%20Mobile%20%7C%20Cloud&descAlignY=58&descSize=17" width="100%" />
+</div>
 
-Full-Stack & DevOps Engineer building scalable web, mobile, and cloud solutions.
+<div align="center">
+  <a href="https://github.com/Merdi-dev12">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+%26+DevOps+Engineer;Building+Scalable+Web%2C+Mobile+%26+Cloud+Solutions;Flutter+%C2%B7+React+%C2%B7+Node.js+%C2%B7+Go;Docker+%C2%B7+Kubernetes+%C2%B7+CI%2FCD+%C2%B7+Terraform;Software+should+be+invisible+%E2%80%94+it+just+works." alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Merdi-dev12&label=Profile%20views&color=0284C7&style=for-the-badge" alt="Profile views" />
+</div>
+
+<br/>
 
 ---
 
@@ -22,11 +35,11 @@ A passionate Full-Stack Engineer with **3 years of experience** crafting high-pe
   <a href="mailto:merdipumba@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
   </a>
-  <a href="[https://linkedin.com/in/votre-profil](https://www.linkedin.com/in/merdi-pumba/)" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/merdi-pumba/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
   </a>
-  <a href="[https://twitter.com/votre-profil](https://x.com/Merdi_Pumba)" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter" />
+  <a href="https://x.com/Merdi_Pumba" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="X (Twitter)" />
   </a>
 </p>
 
@@ -139,8 +152,48 @@ A passionate Full-Stack Engineer with **3 years of experience** crafting high-pe
 
 ---
 
+### 📈 GitHub Analytics
+
+<div align="center">
+  <!-- Stats (avec l'anneau GitHub) + Langages les plus utilisés -->
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Merdi-dev12&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=0EA5E9&text_color=E2E8F0&ring_color=0EA5E9&custom_title=Merdi's%20GitHub%20Stats" alt="GitHub Stats" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merdi-dev12&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&card_width=420" alt="Most Used Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Streak : anneau + flamme en bleu -->
+  <img src="https://streak-stats.demolab.com?user=Merdi-dev12&hide_border=true&background=0D1117&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&stroke=1E3A8A" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🧊 3D Contribution Calendar
+
+<div align="center">
+  <!-- Généré chaque jour par .github/workflows/profile-3d.yml -->
+  <img src="./profile-3d-contrib/profile-blue-animate.svg" alt="3D Contribution Calendar" width="100%" />
+</div>
+
+---
+
 ### 📊 GitHub Activity Graph
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Merdi-dev12&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" width="100%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Merdi-dev12&bg_color=0D1117&color=38BDF8&line=0EA5E9&point=E0F2FE&area=true&area_color=0284C7&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <!-- Généré chaque jour par .github/workflows/snake.yml -->
+  <img src="https://raw.githubusercontent.com/Merdi-dev12/Merdi-dev12/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
+</div>
+
+<!-- ═══════════════════════ FOOTER ANIMÉ ═══════════════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:1E3A8A,100:0F172A&height=120&section=footer&text=Software%20should%20be%20invisible%20%E2%80%94%20it%20just%20works.&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=68" width="100%" />
+</div>
